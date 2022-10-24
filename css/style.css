@@ -1,0 +1,14 @@
+:root {
+  --primary-color: #B2F3E2;
+  --white-color: #FFFFFF;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main-bg {
+  background: var(--primary-color);
+  color: var(--white-color);
+}
